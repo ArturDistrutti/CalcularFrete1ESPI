@@ -1,11 +1,11 @@
+import CalcularFrete from "./components/CalcularFrete"
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      
+      <CalcularFrete/>
     </>
   )
 }
